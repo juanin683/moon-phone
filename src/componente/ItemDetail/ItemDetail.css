@@ -1,0 +1,36 @@
+.detallesDelProducto{
+    display: inline-block;
+    margin-inline-start: 222px;
+    padding-inline-start: 273px;
+    margin-inline-end: 162px;   
+}
+
+.content{
+    color: white;
+    margin: 10px;
+    padding: 10px;
+}
+
+.detallesDelProducto img{
+    width: 400px;
+    height: 400px;
+}
+
+.p{
+    color: white;
+    font-size: 20px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.option{
+    background-color: rgb(194, 217, 156);
+    height: 50px;
+    color: rgb(129 72 0);
+    width: 206px;
+    border-radius: 4%;
+    margin: 11px;
+    font-size: 24px;
+    display: inline-block;
+    text-decoration: none;
+}

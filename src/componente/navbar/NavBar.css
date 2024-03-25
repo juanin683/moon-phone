@@ -1,0 +1,74 @@
+.NavBar{
+  background-color: #160808;
+  background-image: linear-gradient(203deg, #046e4c3d 0%, #30bda87f 25%, #244c7e70 66%, #8993a0 100%);
+  position: fixed;
+  left: 0;
+  top: 0;
+  height: 100%;
+  text-decoration: none;
+  border-top-right-radius: 0.5rem;
+  border-bottom-right-radius: 0.5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-direction: row;
+}
+
+.NavBar ul {
+  width: 100%;
+    margin-left: 1px;
+    padding-left: 8px;
+    height: 85%;
+}
+
+.titulo-navbar{
+  color: beige;
+  text-decoration: inherit;
+  font-size: 30px;
+  margin: 10px;
+}
+.home{
+  list-style: none;
+  padding: 8px;
+  border-top-left-radius: 0.5rem;
+  border-bottom-left-radius: 0.5rem;
+  text-decoration: none;
+}
+
+.home:hover{
+  background-color: rgb(13, 13, 13);
+  color: rgb(40, 15, 95);
+  transition: .5s;
+
+ 
+}
+
+.estilo1{
+  background-color: rgb(167, 250, 250);
+  padding-top: 12px;
+  padding-left: 13px;
+  padding-bottom: 5px;
+  padding-right: 4px;
+  display: block;
+  border-radius: 0.5rem /*8px*/;
+  text-decoration: none;
+  font-family: 'Poppins', sans-serif;
+}
+.estilo1:hover{
+  background-color: rgb(29 207 207 / 73%);
+  padding-top: 12px;
+  padding-left: 20px;
+  padding-bottom: 3px;
+  padding-right: 10px;
+  display: block;
+  border-radius: 0.5rem /*8px*/;
+  transition: 1s;
+  font-family: 'Kanit', sans-serif;
+  font-family: 'Poppins', sans-serif;
+}
+
+
+
+
+
+
