@@ -1,4 +1,4 @@
-Es un proyecto con Firebase para Coderhouse, se trata de una mini tienda de componentes electronicos llamado Dark Phone
+Es un proyecto con Firebase para Coderhouse, se trata de una mini tienda de componentes electronicos llamado Moon Phone
 
 
 Para iniciar el proyecto usa
