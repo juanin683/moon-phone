@@ -15,7 +15,6 @@ export const ItemDetail = ({ detalles }) => {
     const onAdd = (quantity) => {
       setIrACarrito(quantity);
   
-      console.log(id, precio, nombre, quantity);
   
       const item = { id, nombre, precio };
   

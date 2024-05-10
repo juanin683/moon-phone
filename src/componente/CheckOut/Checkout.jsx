@@ -82,8 +82,6 @@ const Checkout = () => {
           <CheckoutForm onConfirm = {crearOrden}/>
         </div>
     )
-
-
 }
 
 export default  Checkout ;
